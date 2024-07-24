@@ -11,6 +11,6 @@ copy_files:
 	cp $(shell pwd)/tpl/C/Makefile $(folder_path)/Makefile 
 
 release:
-	git add SO
+	git add .
 	git commit -m "feat: SO"
 	git push
