@@ -20,7 +20,7 @@ To create a new project, just run:
 make name=ex_0
 ```
 
-This command will create a new C project within folder `ex_0` which will contain another Makefile and main.c and a.out files.
+This command will create a new C project within folder `ex_0` which will contain another Makefile, main.c file and will compile and run the project, creating a.out file too.
 
 ## How to use Makefile at project level
 To execute the project, just run: 
